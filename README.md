@@ -33,7 +33,7 @@ A simple and lightweight To-Do list application built using Python and `tkinter`
 1. Run the app by executing the Python script:
 
    ```bash
-   python TODO.ipynb
+   python TODO.py
    ```
 
 2. **Adding a Task**:
